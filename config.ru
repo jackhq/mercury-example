@@ -1,0 +1,2 @@
+require 'mercury'
+run Mercury
